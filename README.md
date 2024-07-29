@@ -18,3 +18,19 @@ Prueba Tecnica QA
 
 |url 					                           | btn     |
 |https://test-qa.inlaze.com/auth/sign-in | Sign Up |
+
+
+
+#Feature: Scenario for user login
+#Preconditions: The user must already be registered on the platform and must have login enabled.
+
+#Given the user accesses the portal <url>
+#Then user then completes the Email field 
+#And user then completes the Password field
+#When all fields are complete the <btn> is enabled and user select the <btn> and displays his or her user name
+#And the user can view and select the option to log out
+
+#Examples
+
+|url 					                           | btn     |
+|https://test-qa.inlaze.com/auth/sign-in | Sign In |

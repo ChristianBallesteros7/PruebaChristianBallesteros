@@ -12,7 +12,7 @@ Prueba Tecnica QA
 
 
 
-#Given the user accesses the portal <url>
+#Given the user accesses the portal url
 
 #Then user then completes the Full name field 
 
@@ -22,7 +22,7 @@ Prueba Tecnica QA
 
 #Then user then displays a text confirming whether the passwords match
 
-#And when the user completes all fields the <btn> is enabled
+#And when the user completes all fields the btn is enabled
 
 #Examples
 
@@ -38,13 +38,13 @@ Prueba Tecnica QA
 # Feature: Scenario for user login
 # Preconditions: The user must already be registered on the platform and must have login enabled.
 
-#Given the user accesses the portal <url>
+#Given the user accesses the portal url
 
 #Then user then completes the Email field 
 
 #And user then completes the Password field
 
-#When all fields are complete the <btn> is enabled and user select the <btn> and displays his or her user name
+#When all fields are complete the btn is enabled and user select the btn and displays his or her user name
 
 #And the user can view and select the option to log out
 

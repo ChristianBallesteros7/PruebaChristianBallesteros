@@ -4,11 +4,11 @@ Prueba Tecnica QA
 # Feature: Scenario for a user registration
 # Preconditions: 
 
-#The name field must contain at least 2 words
+# The name field must contain at least 2 words
 
-#The email must meet the standard of a valid email address
+# The email must meet the standard of a valid email address
 
-#The password must be at least 8 characters long, including an uppercase letter, a lowercase letter, a number and a special character.
+# The password must be at least 8 characters long, including an uppercase letter, a lowercase letter, a number and a special character.
 
 
 

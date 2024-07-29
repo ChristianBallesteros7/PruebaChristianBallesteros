@@ -26,9 +26,9 @@ Prueba Tecnica QA
 
 #Examples
 
-|url 					                 |
+#|url 					                 |
 |https://test-qa.inlaze.com/auth/sign-in | 
-|btn                                     |
+#|btn                                     |
 |Sign Up                                 |
 
 #
@@ -50,7 +50,7 @@ Prueba Tecnica QA
 
 #Examples
 
-|url 					                 |
+#|url 					                 |
 |https://test-qa.inlaze.com/auth/sign-in | 
-|btn                                     |
+#|btn                                     |
 |Sign In                                 |
